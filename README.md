@@ -5,7 +5,7 @@
 
 任务：操作机械臂，抓取现场随机指定的红/绿/蓝木块，并放到现场随机指定的地点。履带应在指定木块到达RGB传感器时停下，由机械臂抓取指定木块。
 
-硬件：基于STM32L476RG-NUCLEO
+Board：STM32L476RG-NUCLEO + 电机驱动板
 
 IDE:Keil5+STM32CubeMX
 
